@@ -228,7 +228,7 @@ function create_config( )
     "whitelist",
     "msg_checks"
     },
-    sudo_users = {175623013,193756628,128332825},--Sudo users
+    sudo_users = {175623013,204181354,128332825},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[.::::#DALAD#::::. v Supergroup
 An advanced administration bot based on TG-CLI written in Lua
